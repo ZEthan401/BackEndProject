@@ -1,5 +1,5 @@
 //Ethan Zhong period 7-8 Even
-// Programs communicate with each other through their backends. If one part of the backend doesn't work then the rest of the program would not work as intended.
+// Programs communicate with each other through their route requests.
 //I learned how to use postman
 //This project could be further extended by adding more features to imrpove accessibility and adding more songs.
 
